@@ -113,6 +113,8 @@ update-all
 - For backend projects, you can modify the start commands (e.g., `docker-compose`, `npm run`) as required for your setup.
 - The `update-projects.sh` script includes checks for uncommitted changes and prompts the user to stash them, ensuring a clean update process.
 - When starting the development servers, you can click on the terminal menu, then select "Window" and "Merge All Windows" to have a clean terminal interface with all tabs merged.
+ <img width="1300" alt="image" src="https://github.com/user-attachments/assets/2b7e55c2-1650-408a-b933-4b5271472f4a" />
+
 
 ---
 
